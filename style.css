@@ -64,7 +64,7 @@ header {
   padding: 32px;
   top: 76px;
   left: -100%;
-  height: calc(100% - 76px);
+  height: calc(100vh - 76px);
   width: 100%;
   transition: all 0.3s ease-in;
 }
